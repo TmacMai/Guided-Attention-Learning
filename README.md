@@ -1,6 +1,8 @@
 # Guided-Attention-Learning
 Codes for Guided Attention Learning with Supervised Signals for Multimodal Fusion
 
+For the multimodal sentiment analysis task, please follow the following commands to set up experiments: 
+
 #### (1) Download the datasets to `./datasets` by running `download_datasets.sh`.
 
 
