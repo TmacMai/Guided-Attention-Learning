@@ -14,7 +14,7 @@ For the multimodal sentiment analysis task, please follow the following commands
 #### Dependancies
 CUDA 11.6, transformers 4.29.2, pytorch 1.13.1, python 3.9.19
 
-# Name                    Version                   Build  Channel
+# Name                 #  Version               #   Build  Channel
 _libgcc_mutex             0.1                        main  
 _openmp_mutex             5.1                       1_gnu  
 absl-py                   1.4.0                    pypi_0    pypi
@@ -72,3 +72,5 @@ zlib                      1.2.13               h5eee18b_1
 
 
 Acknowledgement: We thank the authors of "https://github.com/joshuaxiao98/ITHP" and "https://github.com/WasifurRahman/BERT_multimodal_transformer" for sharing their codes.
+
+The codes for MHD and MSD will be released soon.
